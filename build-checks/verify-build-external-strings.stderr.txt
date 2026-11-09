@@ -1,0 +1,2 @@
+FAIL built output contains external URLs: https://react.dev/errors/, https://react.dev/errors/, http://www.w3.org/2000/svg, http://www.w3.org/1998/Math/MathML, http://www.w3.org/2000/svg, http://www.w3.org/1998/Math/MathML, http://www.w3.org/2000/svg, http://www.w3.org/1999/xlink
+1 check(s) failed

@@ -1,0 +1,6 @@
+
+> what-isnt-happening@0.0.0 build
+> tsc -b && vite build
+
+tsconfig.app.json(11,5): error TS5102: Option 'baseUrl' has been removed. Please remove it from your configuration.
+  Use '"paths": {"*": ["./*"]}' instead.

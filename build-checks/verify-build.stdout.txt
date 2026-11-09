@@ -1,0 +1,4 @@
+ok categories=9 items=72 featured="Iraq is not invading Poland" ids=72 confidence=100
+ok appendix headlines preserved in order under each category
+ok built HTML and base-prefixed assets under /what-isnt-happening/
+note library output contains react.dev/errors strings, w3.org namespace strings, and a Tailwind license comment. None are fetched as content or assets.

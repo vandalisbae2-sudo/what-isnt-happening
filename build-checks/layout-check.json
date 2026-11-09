@@ -1,0 +1,120 @@
+[
+  {
+    "viewport": {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "mobile": true
+    },
+    "metrics": {
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "overflow": 0,
+      "h1": "What Isn’t Happening",
+      "headerTitle": "What Isn’t Happening",
+      "cards": 73,
+      "headings": [
+        "World News",
+        "Stock Market",
+        "Personal Finance",
+        "Weather",
+        "Sports",
+        "Science & Tech",
+        "Celebrity",
+        "Local",
+        "Personal Life"
+      ],
+      "confidence": 73,
+      "details": 45,
+      "ticker": true,
+      "clock": false,
+      "fictional": true
+    },
+    "shots": {
+      "hero": "/opt/cursor/artifacts/screenshot_mobile_hero.png",
+      "category": "/opt/cursor/artifacts/screenshot_mobile_world_news.png",
+      "footer": "/opt/cursor/artifacts/screenshot_mobile_footer.png"
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "mobile": true
+    },
+    "metrics": {
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "overflow": 0,
+      "h1": "What Isn’t Happening",
+      "headerTitle": "What Isn’t Happening",
+      "cards": 73,
+      "headings": [
+        "World News",
+        "Stock Market",
+        "Personal Finance",
+        "Weather",
+        "Sports",
+        "Science & Tech",
+        "Celebrity",
+        "Local",
+        "Personal Life"
+      ],
+      "confidence": 73,
+      "details": 45,
+      "ticker": true,
+      "clock": false,
+      "fictional": true
+    },
+    "shots": {
+      "hero": "/opt/cursor/artifacts/screenshot_tablet_hero.png",
+      "category": "/opt/cursor/artifacts/screenshot_tablet_world_news.png",
+      "footer": "/opt/cursor/artifacts/screenshot_tablet_footer.png"
+    }
+  },
+  {
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900,
+      "mobile": false
+    },
+    "metrics": {
+      "scrollWidth": 1425,
+      "clientWidth": 1425,
+      "overflow": 0,
+      "h1": "What Isn’t Happening",
+      "headerTitle": "What Isn’t Happening",
+      "cards": 73,
+      "headings": [
+        "World News",
+        "Stock Market",
+        "Personal Finance",
+        "Weather",
+        "Sports",
+        "Science & Tech",
+        "Celebrity",
+        "Local",
+        "Personal Life"
+      ],
+      "confidence": 73,
+      "details": 45,
+      "ticker": true,
+      "clock": false,
+      "fictional": true
+    },
+    "shots": {
+      "hero": "/opt/cursor/artifacts/screenshot_desktop_hero.png",
+      "category": "/opt/cursor/artifacts/screenshot_desktop_world_news.png",
+      "footer": "/opt/cursor/artifacts/screenshot_desktop_footer.png"
+    }
+  },
+  {
+    "reducedMotion": {
+      "scrollArea": true,
+      "tickerTrack": false,
+      "label": "Non-event headlines, repeated from the sections above. Scroll manually."
+    }
+  }
+]
